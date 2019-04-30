@@ -1,2 +1,5 @@
 # MusicalBox_DSA
-A simple game.
+
+Data Structures and Algorithms.
+
+A simple game with simple rules.
